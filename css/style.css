@@ -716,16 +716,15 @@ color: var(--text-black-900);
         flex: 0 0 100%;
         max-width: 100%;
     }
-    .home-section .home-img{
-        display: none;
-    }
+    
 
 
 }
 @media (max-width:767px)
 {   .contact-info-item,
     .project .project-item,
-    .home .home-img,
+    
+    .home-section .home-img
     .about .section-title h2,
     .about .about-content .education,
     .about .about-content .personal-info{
